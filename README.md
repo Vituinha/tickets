@@ -5,36 +5,36 @@ Este projeto é uma aplicação web desenvolvida em React para gerenciar tickets
 
 ### This project is a web application developed in React for managing tickets. The application allows user registration, authentication, profile management, client registration, and the creation and editing of tickets with different statuses.
 Funcionalidades / Features
-** Usuários / Users ** 
+ Usuários / Users  
 
-    + Cadastro / Registration:
+     Cadastro / Registration:
         - Permite que novos usuários se cadastrem com nome, email e senha.
         - Allows new users to register with name, email, and password.
-    + Login:
+     Login:
         - Usuários podem fazer login com email e senha.
         - Users can log in with email and password.
-    + Perfil / Profile:
+     Perfil / Profile:
         - Usuários podem salvar uma foto de perfil, alterar seu nome e atualizar a foto.
         - Users can save a profile picture, change their name, and update the picture.
 
-** Clientes / Clients **
+ Clientes / Clients 
 
-    + Cadastro de Clientes / Client Registration: Permite cadastrar clientes com os seguintes campos:
+     Cadastro de Clientes / Client Registration: Permite cadastrar clientes com os seguintes campos:
         - Nome / Name
         - CNPJ
         - Endereço / Address
 
-** Tickets **
+ Tickets 
 
-    + Criação de Tickets / Ticket Creation: Permite criar tickets com os seguintes status:
+     Criação de Tickets / Ticket Creation: Permite criar tickets com os seguintes status:
         - Aberto / Open
         - Pendente / Pending
         - Encaminhado / Forwarded
-    + Edição de Tickets / Ticket Editing: Permite alterar os campos de um ticket, incluindo:
+     Edição de Tickets / Ticket Editing: Permite alterar os campos de um ticket, incluindo:
         - Complemento / Additional Information
         - Assunto / Subject
 
-** Instalação / Installation **
+ Instalação / Installation 
 
     - Clone o repositório / Clone the repository:
 
@@ -54,7 +54,7 @@ bash
 
     npm install
 
-** Uso / Usage **
+ Uso / Usage 
 
     - Inicie a aplicação / Start the application:
 
@@ -65,7 +65,7 @@ bash
     - Abra seu navegador e acesse http://localhost:3000 para visualizar a aplicação.
     - Open your browser and go to http://localhost:3000 to view the application.
 
-** Estrutura do Projeto / Project Structure **
+ Estrutura do Projeto / Project Structure 
 
     src/: Diretório principal do código fonte.
     Main directory for the source code.
@@ -80,7 +80,7 @@ bash
         styles/: Arquivos de estilo.
         Style files.
 
-** Contribuição / Contribution **
+ Contribuição / Contribution 
 
     Fork o repositório / Fork the repository.
     Crie uma nova branch / Create a new branch:
