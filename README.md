@@ -1,5 +1,5 @@
-#Projeto de Gerenciamento de Tickets / Ticket Management Project
-##Descrição / Description
+# Projeto de Gerenciamento de Tickets / Ticket Management Project
+## Descrição / Description
 
 Este projeto é uma aplicação web desenvolvida em React para gerenciar tickets. A aplicação permite o cadastro de usuários, autenticação, gerenciamento de perfil, cadastro de clientes e criação e edição de tickets com diferentes status.
 
