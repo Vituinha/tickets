@@ -1,5 +1,5 @@
-Projeto de Gerenciamento de Tickets / Ticket Management Project
-Descrição / Description
+#Projeto de Gerenciamento de Tickets / Ticket Management Project
+##Descrição / Description
 
 Este projeto é uma aplicação web desenvolvida em React para gerenciar tickets. A aplicação permite o cadastro de usuários, autenticação, gerenciamento de perfil, cadastro de clientes e criação e edição de tickets com diferentes status.
 
@@ -7,17 +7,19 @@ This project is a web application developed in React for managing tickets. The a
 Funcionalidades / Features
 Usuários / Users
 
-    Cadastro / Registration: Permite que novos usuários se cadastrem com nome, email e senha.
-    Allows new users to register with name, email, and password.
-    Login: Usuários podem fazer login com email e senha.
-    Users can log in with email and password.
-    Perfil / Profile: Usuários podem salvar uma foto de perfil, alterar seu nome e atualizar a foto.
-    Users can save a profile picture, change their name, and update the picture.
+    Cadastro / Registration:
+        Permite que novos usuários se cadastrem com nome, email e senha.
+        Allows new users to register with name, email, and password.
+    Login:
+        Usuários podem fazer login com email e senha.
+        Users can log in with email and password.
+    Perfil / Profile:
+        Usuários podem salvar uma foto de perfil, alterar seu nome e atualizar a foto.
+        Users can save a profile picture, change their name, and update the picture.
 
 Clientes / Clients
 
     Cadastro de Clientes / Client Registration: Permite cadastrar clientes com os seguintes campos:
-    Allows registering clients with the following fields:
         Nome / Name
         CNPJ
         Endereço / Address
@@ -25,12 +27,10 @@ Clientes / Clients
 Tickets
 
     Criação de Tickets / Ticket Creation: Permite criar tickets com os seguintes status:
-    Allows creating tickets with the following statuses:
         Aberto / Open
         Pendente / Pending
         Encaminhado / Forwarded
     Edição de Tickets / Ticket Editing: Permite alterar os campos de um ticket, incluindo:
-    Allows editing ticket fields, including:
         Complemento / Additional Information
         Assunto / Subject
 
