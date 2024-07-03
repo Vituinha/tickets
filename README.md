@@ -40,7 +40,7 @@ Funcionalidades / Features
 
     bash
 
-git clone https://github.com/seuusuario/projetogerenciamentotickets.git
+git clone https://github.com/Vituinha/tickets.git
 
 Navegue até o diretório do projeto / Navigate to the project directory:
 
