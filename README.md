@@ -8,45 +8,45 @@ Funcionalidades / Features
  Usuários / Users  
 
      Cadastro / Registration:
-        - Permite que novos usuários se cadastrem com nome, email e senha.
-        - Allows new users to register with name, email, and password.
+         Permite que novos usuários se cadastrem com nome, email e senha.
+         Allows new users to register with name, email, and password.
      Login:
-        - Usuários podem fazer login com email e senha.
-        - Users can log in with email and password.
+         Usuários podem fazer login com email e senha.
+         Users can log in with email and password.
      Perfil / Profile:
-        - Usuários podem salvar uma foto de perfil, alterar seu nome e atualizar a foto.
-        - Users can save a profile picture, change their name, and update the picture.
+         Usuários podem salvar uma foto de perfil, alterar seu nome e atualizar a foto.
+         Users can save a profile picture, change their name, and update the picture.
 
  Clientes / Clients 
 
      Cadastro de Clientes / Client Registration: Permite cadastrar clientes com os seguintes campos:
-        - Nome / Name
-        - CNPJ
-        - Endereço / Address
+         Nome / Name
+         CNPJ
+         Endereço / Address
 
  Tickets 
 
      Criação de Tickets / Ticket Creation: Permite criar tickets com os seguintes status:
-        - Aberto / Open
-        - Pendente / Pending
-        - Encaminhado / Forwarded
+         Aberto / Open
+         Pendente / Pending
+         Encaminhado / Forwarded
      Edição de Tickets / Ticket Editing: Permite alterar os campos de um ticket, incluindo:
-        - Complemento / Additional Information
-        - Assunto / Subject
+         Complemento / Additional Information
+         Assunto / Subject
 
  Instalação / Installation 
 
-    - Clone o repositório / Clone the repository:
+     Clone o repositório / Clone the repository:
 
     bash
 
-git clone https://github.com/seu-usuario/projeto-gerenciamento-tickets.git
+git clone https://github.com/seuusuario/projetogerenciamentotickets.git
 
 Navegue até o diretório do projeto / Navigate to the project directory:
 
 bash
 
-cd projeto-gerenciamento-tickets
+cd projetogerenciamentotickets
 
 Instale as dependências / Install dependencies:
 
@@ -56,14 +56,14 @@ bash
 
  Uso / Usage 
 
-    - Inicie a aplicação / Start the application:
+     Inicie a aplicação / Start the application:
 
-    - bash
+     bash
 
-    - npm start
+     npm start
 
-    - Abra seu navegador e acesse http://localhost:3000 para visualizar a aplicação.
-    - Open your browser and go to http://localhost:3000 to view the application.
+     Abra seu navegador e acesse http://localhost:3000 para visualizar a aplicação.
+     Open your browser and go to http://localhost:3000 to view the application.
 
  Estrutura do Projeto / Project Structure 
 
@@ -87,19 +87,19 @@ bash
 
     bash
 
-git checkout -b minha-feature / my-feature
+git checkout b minhafeature / myfeature
 
 Faça suas alterações e commit / Make your changes and commit:
 
 bash
 
-git commit -m 'Minha nova feature' / 'My new feature'
+git commit m 'Minha nova feature' / 'My new feature'
 
 Envie para o repositório remoto / Push to the remote repository:
 
 bash
 
-    git push origin minha-feature / my-feature
+    git push origin minhafeature / myfeature
 
     Abra um Pull Request / Open a Pull Request.
 
